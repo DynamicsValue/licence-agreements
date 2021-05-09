@@ -11,7 +11,7 @@ If you accept this EULA on behalf of a company or other legal entity, you warran
 
 ## 1 INTELLECTUAL PROPERTY
 
-**Company Name** owns all intellectual property rights to the Software, a .NET library that is used to unit test applications. You may not use the Software other than pursuant to the terms of this EULA. Noncommercial use is exclusively regulated by the Polyform Noncommercial license 1.0.0. Polyform Noncommercial license is a separate written agreement.
+**Company Name** owns all intellectual property rights to the Software, a .NET library that is used to unit test applications built on top of the Power Platform and/or Dataverse. You may not use the Software other than pursuant to the terms of this EULA. Noncommercial use is exclusively regulated by the Polyform Noncommercial license 1.0.0. Polyform Noncommercial 1.0.0 license is a separate written agreement.
 
 ## 2 GRANT OF LICENSE
 
@@ -39,15 +39,15 @@ You may not offer the Software, or what substantially constitutes the Software, 
 
 ### 3.5 Confidentiality of Credentials
 
-You must maintain the confidentiality of any credentials issued to you upong signing up for a subscription to the Software.
+You must maintain the confidentiality of any credentials issued to you upon signing up for a subscription to the Software.
 
 ### 3.6 Company Name's Corporate Name
 
-You may not use Company Name's corporate name in your marketing or otherwise without Company Name's prior written approval.
+You may not use Company Name's corporate name or any of its trademarks in your marketing or otherwise without Company Name's prior written approval.
 
 ## 4 SUPPORT
 
-Company Name offers subscribers support through its online platform. You acknowledge and confirm that Company Name's ability to provide adequate support is dependent on development decisions made by Microsoft Corporation, which are outside of Company Name's control. Company name's support undertaking does not include other versions of the Software than the second most current minor version distributed in object code form by Company Name through NuGet starting from version 2. Company Name does not support any modified version of the Software.
+Company Name offers subscribers support through email or its online platform. You acknowledge and confirm that Company Name's ability to provide adequate support is dependent on development decisions made by Microsoft Corporation, which are outside of Company Name's control. Company Name's support undertaking does not include other versions of the Software than the second most current minor version distributed in object code form by Company Name through NuGet platform and/or via GitHub Packages starting from version 2. Company Name does not support any modified version of the Software.
 
 Company Name will strive to provide an initial response regarding issues within 48 hours of submission. Before being entitles to receive any support, you must give Company Name all necessary information that is requested in the support form and that may otherwise be reasonably required to resolve your issue.
 
@@ -71,7 +71,7 @@ THE SOFTWARE IS PROVIDED ON A “AS IS” BASIS, WITHOUT WARRANTY OF ANY KIND, E
 
 ## 8 LIMITATION OF DAMAGES
 
-UNDER NO CIRCUMSTANCES AND UNDER NO LEGAL BASIS, WHETHER TORT (INCLUDING NEGLIGENCE), CONTRACT, OR OTHERWISE, SHALL COMPANY NAME BE LIABLE TO YOU FOR ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES OF ANY CHARACTER INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOST PROFITS, LOSS OF GOODWILL, WORK STOPPAGE, COMPUTER FAILURE OR MALFUNCTION, OR ANY AND ALL OTHER COMMERCIAL DAMAGES OR LOSSES, EVEN IF SUCH PARTY SHALL HAVE BEEN INFORMED OF THE POSSIBILITY OF SUCH DAMAGES. THIS LIMITATION OF LIABILITY SHALL NOT APPLY TO LIABILITY FOR DEATH OR PERSONAL INJURY RESULTING FROM COMPANY NAME’S NEGLIGENCE TO THE EXTENT APPLICABLE LAW PROHIBITS SUCH LIMITATION. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THIS EXCLUSION AND LIMITATION MAY NOT APPLY TO YOU.
+UNDER NO CIRCUMSTANCES AND UNDER NO LEGAL BASIS, WHETHER TORT (INCLUDING NEGLIGENCE), CONTRACT, OR OTHERWISE, SHALL [insert COMPANY NAME] BE LIABLE TO YOU FOR ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES OF ANY CHARACTER INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOST PROFITS, LOSS OF GOODWILL, WORK STOPPAGE, COMPUTER FAILURE OR MALFUNCTION, OR ANY AND ALL OTHER COMMERCIAL DAMAGES OR LOSSES, EVEN IF SUCH PARTY SHALL HAVE BEEN INFORMED OF THE POSSIBILITY OF SUCH DAMAGES. THIS LIMITATION OF LIABILITY SHALL NOT APPLY TO LIABILITY FOR DEATH OR PERSONAL INJURY RESULTING FROM COMPANY NAME’S NEGLIGENCE TO THE EXTENT APPLICABLE LAW PROHIBITS SUCH LIMITATION. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THIS EXCLUSION AND LIMITATION MAY NOT APPLY TO YOU.
 
 ## 9 CHANGES AND ACCEPTANCE
 
@@ -116,6 +116,9 @@ You may assign your rights and obligations under this EULA only to a subsidiary 
 This EULA shall be governed by and construed in accordance with the laws of Spain, excluding its conflicts of law rules.
 
 Any dispute between Company Name and you shall exclusively be submitted to "**Court, City and Country**".
+
+
+IN WITNESS WHEREOF, the parties, intending to be legally bound, have executed this License Agreement as of the Effective Date by the undersigned duly authorized representatives:
 
 
 
