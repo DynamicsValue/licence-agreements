@@ -118,7 +118,11 @@ Licensor may assign its rights and obligations under this EULA.
 
 You may assign your rights and obligations under this EULA only to a subsidiary or affiliate, or in connection with any sale or transfer of all or substantially all of your business or assests, and only provided that the asignee assumes all of your obligations.
 
-## 13 GOVERNING LAW AND DISPUTE RESOLUTION
+## 13 FEEDBACK 
+
+If You provide Licensor with any comments, bug reports, feedback, enhancements, or modifications proposed or suggested by You for the Software (***"Feedback"***), such Feedback is provided on a non-confidential basis (notwithstanding any notice to the contrary You may include in any accompanying communication), and Licensor shall have the right to use such Feedback at its discretion, including, but not limited to the incorporation of such suggested changes into future releases of the Software. You hereby grant Licensor a perpetual, irrevocable, transferable, sublicensable, nonexclusive license under all rights necessary to incorporate and use your Feedback for any purpose, including to make and sell any products and services.
+
+## 14 GOVERNING LAW AND DISPUTE RESOLUTION
 
 This EULA shall be governed by and construed in accordance with the laws of Spain, excluding its conflicts of law rules.
 
