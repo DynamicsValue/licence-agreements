@@ -47,7 +47,7 @@ You may not use Licensor's corporate name or any of its trademarks in your marke
 
 ## 4 SUPPORT
 
-Licensor will only provide general support for the current major version of the unmodified Software (or the prior major version of the Software for one year after the release of the then-current major version of the Software) as follows:
+Licensor will only provide general support for the current major version of the unmodified Software (or the prior major version of the Software for one year after the release of the then-current major version of the Software, except any version prior to major version 2) as follows:
 
 - i. A request for support related to a material, reproducible vulnerability or other defect in the Software may be made by You via our Jira issue tracker at: [https://dynamicsvalue.atlassian.net](https://dynamicsvalue.atlassian.net) (**"Request"**); and
 
@@ -64,7 +64,7 @@ A support contract may be purchased separately from Licensor for individual or c
 
 Payment of subscription fees shall be made in advance of taking the Software into use. Subscription fees will be charged automatically upon subscription renewal.
 
-The current subscription fees are described in the price list (**URL here**). Licensor may change the subscription fees in accordance with the procedure set out in Section 9 ("Changes and Acceptance"). Any charnge in the subscription fees will take effect at the start of a new period.
+The current subscription fees are described in the price list (**[insert URL here]**). Licensor may change the subscription fees in accordance with the procedure set out in Section 9 ("Changes and Acceptance"). Any charnge in the subscription fees will take effect at the start of a new period.
 
 Payments are processed by a third party. Your payment is therefore subject to the current tems and conditions of that third party.
 
