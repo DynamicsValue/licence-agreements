@@ -1,6 +1,7 @@
 # END USER LICENSE AGREEMENT
 
-Last Updated: May 15th, 2021.
+Version: 0.0.2
+Last Updated: August 12th, 2021.
 
 
 This End User License Agreement (**"EULA"**) is made between you (either as an indivdual or a single entity (**"You"**)) and **"[insert Company Name]"** , **[insert Company's Address]**, (**"Licensor"**), and governs your use of FakeXrmEasy Version 2 or later (the **"Software"**).
@@ -11,7 +12,7 @@ By downloading, installing, or otherwise accessing or using the Software, You ag
 
 ## 1 INTELLECTUAL PROPERTY
 
-Licensor owns all intellectual property rights to the Software, a .NET library that is used to unit test applications built on top of the Power Platform and/or Dataverse. You may not use the Software other than pursuant to the terms of this EULA. Noncommercial use is exclusively regulated by the Polyform Noncommercial license 1.0.0. Polyform Noncommercial 1.0.0 license is a separate written agreement.
+Licensor owns all intellectual property rights to the Software, a .NET library that is used to develop and unit test applications built on top of the Dynamics CRM, Power Platform and/or Dataverse. You may not use the Software other than pursuant to the terms of this EULA. Noncommercial use is exclusively regulated by the Polyform Noncommercial license 1.0.0. Polyform Noncommercial 1.0.0 license is a separate written agreement.
 
 ## 2 GRANT OF LICENSE
 
@@ -49,11 +50,11 @@ You may not use Licensor's corporate name or any of its trademarks in your marke
 
 Licensor will only provide general support for the current major version of the unmodified Software (or the prior major version of the Software for one year after the release of the then-current major version of the Software, except any version prior to major version 2) as follows:
 
-- i. A request for support related to a material, reproducible vulnerability or other defect in the Software may be made by You via our Jira issue tracker at: [https://dynamicsvalue.atlassian.net](https://dynamicsvalue.atlassian.net) (**"Request"**); and
+- i. A request for support related to a material, reproducible vulnerability or other defect in the Software may be made by You via our GitHub issue tracker at: [https://github.com/DynamicsValue/fake-xrm-easy](https://github.com/DynamicsValue/fake-xrm-easy) (**"Request"**); and
 
 - ii. Licensor will use best efforts to resolve all reasonable Requests, but makes no guarantee that all Requests can be finally resolved.
 
-Licensor shall not provide support for: unsupported platforms as or programming languages other than those specified in the documentation accompanying the Software, Requests not resulting from the ordinary use of the Software; or requests resulting from the use of third-party products, or versions of the Software that are not production ready (labelled as alpha, or beta, or pre-release) that might be granted by Licensor to You during a free trial period from time to time.
+Licensor shall not provide support for: unsupported platforms or programming languages other than those specified in the documentation accompanying the Software, Requests not resulting from the ordinary use of the Software; or requests resulting from the use of third-party products, or versions of the Software that are not production ready (labelled as alpha, or beta, or pre-release) that might be granted by Licensor to You during a free trial period from time to time.
 
 Licensor will not provide You with any individual or customized support services under this EULA.
 
@@ -127,7 +128,6 @@ If You provide Licensor with any comments, bug reports, feedback, enhancements, 
 This EULA shall be governed by and construed in accordance with the laws of Spain, excluding its conflicts of law rules.
 
 Any dispute between Licensor and you shall exclusively be submitted to "**[insert Court, City and Country]**".
-
 
 IN WITNESS WHEREOF, the parties, intending to be legally bound, have executed this License Agreement as of the Effective Date by the undersigned duly authorized representatives:
 
