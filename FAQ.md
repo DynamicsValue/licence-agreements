@@ -48,7 +48,7 @@ If you offer your own framework or extensions on top of FakeXrmEasy, users of su
 
 **I love FakeXrmEasy, but how can I justify the investment decision to my managers?**
 
-We've conducted a pretty extensive research study with the help of developers from more than 30 different organisations who were already using FakeXrmEasy v1. The outcome was 33% increased development efficiency and 191% increased efficency due to reduced escaped defects that didn't make it to production or other environments. [Feel free to download the study here at this link](http://insert-link-here).
+We've conducted a pretty extensive research study with the help of developers from more than 30 different organisations who were already using FakeXrmEasy v1. The outcome was 33% increased development efficiency and 191% increased efficiency due to reduced escaped defects that didn't make it to production or other environments. [Feel free to download the study here at this link](http://insert-link-here).
 
 If you still have questions, we'd be more than happy to answer those. Please do reach out to us via sales@dynamicsvalue.com.
 
