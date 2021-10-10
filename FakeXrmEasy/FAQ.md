@@ -14,11 +14,11 @@ Short answer: sustainability. The demand of users of FakeXrmEasy has grown well 
 
 **What license does FakeXrmEasy version 2 or later use?**
 
-FakeXrmEasy version 2 or later uses a triple licensed model. You can choose to use the software under the OSI approved Reciprocal Public License 1.5 (RPL 1.5), a Modified Polyform Non-commercial 1.0.0 license, or a commercial license. [See the license for more details](http://link-to-license).
+FakeXrmEasy version 2 or later uses a triple licensed model. You can choose to use the software under the OSI approved [Reciprocal Public License 1.5 (RPL 1.5)](https://github.com/DynamicsValue/licence-agreements/blob/main/FakeXrmEasy/RPL_1_5.md), a Modified Polyform Non-commercial 1.0.0 license, or a commercial license. [See the license for more details](https://github.com/DynamicsValue/licence-agreements/blob/main/FakeXrmEasy/LICENSE.md).
 
 **Can I use the new version free of charge?**
 
-You can use FakeXrmEasy version 2 or later free of charge if you meet the requirements of either the [RPL 1.5](https://opensource.org/licenses/RPL-1.5) or the [Modified Polyform Non-commercial license](http://link-to-modified-polyform). 
+You can use FakeXrmEasy version 2 or later free of charge if you meet the requirements of either the [RPL 1.5](https://github.com/DynamicsValue/licence-agreements/blob/main/FakeXrmEasy/RPL_1_5.md) or the [Modified Polyform Non-commercial license](https://github.com/DynamicsValue/licence-agreements/blob/main/FakeXrmEasy/LICENSE.md). 
 
 **Can I use FakeXrmEasy version 2 or later for my personal project?**
 
@@ -28,7 +28,7 @@ Yes, both the RPL 1.5 and the Modified Polyform Non-commercial license 1.0.0 cov
 
 Under the RPL 1.5, any piece of code where FakeXrmEasy is used must be made available to the community, as well as displaying a User-Visible Attribution Notice according to section 6.4 d) of the RPL 1.5. 
 
-The RPL 1.5 encourages a sustainable open source model where you can either "pay in code" or else buy a commercial license for privacy. Either way, the community benefits via new contributions or via supporting a model that sustains and produces more open source. Please [read the full RPL 1.5 license](https://opensource.org/licenses/RPL-1.5) for more details.
+The RPL 1.5 encourages a sustainable open source model where you can either "pay in code" or else buy a commercial license for privacy. Either way, the community benefits via new contributions or via supporting a model that sustains and produces more open source. Please [read the full RPL 1.5 license](https://github.com/DynamicsValue/licence-agreements/blob/main/FakeXrmEasy/RPL_1_5.md) for more details.
 
 **What are the main differences between the Modified Polyform Non-commercial license 1.0.0 and the original Polyform Non-Commercial 1.0.0 license?**
 
@@ -78,7 +78,7 @@ No, these license changes apply to FakeXrmEasy software version 2 or later. You 
 
 **Where I can find your EULA?**
 
-Our End User License Agreement is available [here](http://insert-link-here).
+Our End User License Agreement is available [here](https://github.com/DynamicsValue/licence-agreements/blob/main/FakeXrmEasy/EULA.md).
 
 **How do I purchase licenses?**
 
