@@ -1,22 +1,21 @@
 By accessing the FakeXrmEasy Version 2 or later software libraries, you are agreeing to one of the following licenses, at your option, under the conditions summarized below:
 
-* If you wish to evaluate or use the FakeXrmEasy Version 2 or later software libraries (i) in a NonCommercial Manner* , or (ii) for any purpose other than NonCommercial Manner, you may download and access the source and/or binaries at no charge under [the Reciprocal Public License 1.5 (RPL-1.5) (the “RPL”)](https://github.com/DynamicsValue/licence-agreements/blob/main/FakeXrmEasy/RPL_1_5.md); 
+* If you wish to evaluate or use the FakeXrmEasy Version 2 or later software libraries (i) in a NonCommercial Manner* , or (ii) for any purpose other than NonCommercial Manner and contribute to the FakeXrmEasy community by making available the source code of any extensions you implement, you may download and access the source and/or binaries at no charge under the [Reciprocal Public License 1.5 (RPL-1.5) (the “RPL”)](https://github.com/DynamicsValue/licence-agreements/blob/main/FakeXrmEasy/RPL_1_5.md); 
 
     or
 
-* If you wish to use the FakeXrmEasy Version 2 or later software libraries (i) for noncommercial purpose, or personal use for research, experiment, and testing for the benefit of public knowledge, personal study, private entertainment, hobby projects, amateur pursuits, or religious observance, without any anticipated commercial application; or (ii) you are a Noncommercial Organization**, a Public Environmental Protection Agency, or a Public Health Organization***, , you may download and use them free of charge under the Modified PolyForm Noncommercial License 1.0.0 below;
+* If you wish to use the FakeXrmEasy Version 2 or later software libraries (i) for noncommercial purpose, or personal use for research, experiment, and testing for the benefit of public knowledge, personal study, private entertainment, hobby projects, amateur pursuits, or religious observance, without any planned or secondary commercial application; or (ii) you are a Noncommercial Organization**, you may download and use them free of charge under the Modified PolyForm Noncommercial License 1.0.0 below;
 
     or
 
-* If you wish to use the FakeXrmEasy Version 2 or later software libraries commercially without making available your source code and you are not a Public Environmental Protection Agency, or a Public Health Organization, you may download and use them (with the appropriate payment) under the [SOFTWARE LICENSE AND SERVICE AGREEMENT](https://github.com/DynamicsValue/licence-agreements/blob/main/FakeXrmEasy/EULA.md) (separate written agreement).
+* If you wish to use the FakeXrmEasy Version 2 or later software libraries commercially without making available your source code, you may download and use them (with the appropriate payment) under the [SOFTWARE LICENSE AND SERVICE AGREEMENT](https://github.com/DynamicsValue/licence-agreements/blob/main/FakeXrmEasy/EULA.md) (separate written agreement).
 
 
-***Non-Commercial Manner** – consistent with the RPL – means any use of the FakeXrmEasy Version 2 or later software libraries by: (i) an individual (and not a business entity) solely for their personal, private, and non-commercial purposes; or (ii) an individual or business entity in an experimental manner to understand its nature, limits, and potential uses. The use, including business internal uses, of the FakeXrmEasy Version 2 or later for any purpose other than NonCommercial Manner under RPL requires that you make available to the FakeXrmEasy community the source code and any modifications, bug fixes, extensions, text, programs, scripts, schema, interface definitions, control files, or other works created by You which are required by a third party of average skill to successfully install and run the FakeXrmEasy Version 2 or later software libraries containing your modifications, or to install and run your derivative works, in accordance with the definitions, manner, terms and scope stated in the RPL License Terms.
+***Non-Commercial Manner** – consistent with the RPL – means any use of the FakeXrmEasy Version 2 or later software libraries by: (i) an individual (and not a business entity) solely for their personal, private, and non-commercial purposes; or (ii) an individual or business entity in an experimental manner to understand its nature, limits, and potential uses. The use, including business internal uses, of the FakeXrmEasy Version 2 or later software libraries for any purpose other than NonCommercial Manner under RPL requires that you make available to the FakeXrmEasy community the source code and any modifications, bug fixes, extensions, text, programs, scripts, schema, interface definitions, control files, or other works created by You which are required by a third party of average skill to successfully install and run the FakeXrmEasy Version 2 or later software libraries containing your modifications, or to install and run your derivative works, in accordance with the definitions, manner, terms and scope stated in the RPL License Terms.
 
-****Noncommercial Organization** – consistent with the Modified PolyForm Noncommercial License 1.0.0– means that you are: any charitable organization, educational institution, public research organization, public safety or health organization, environmental protection organization, or government institution.
+****Noncommercial Organization** – consistent with the Modified PolyForm Noncommercial License 1.0.0– means that you are: (i) any public charitable organization, public educational institution, public research organization, public safety or health organization, public environmental protection organization, or government institution, provided their participation is 100% public; or (ii) a foundation whose purpose is to fight poverty, combat disease, promote and advance human rights, animal welfare or environmental protection. 
 
-*****Public Environmental Protection Agency, or a Public Health Organization** – consistent with the Modified PolyForm Noncommercial License 1.0.0 below - means that you are an environmental protection agency or a public health organization with 100% public ownership, regardless of whether you wish to make commercial or non-commercial use of the software.
- 
+
 **Modified PolyForm Noncommercial License 1.0.0**
 
 **Acceptance**
@@ -56,10 +55,14 @@ Personal use for research, experiment, and testing for the benefit of public kno
 
 Use by any charitable organization, educational institution, public research organization, public safety or health organization, environmental protection organization, or government institution is use for a permitted purpose regardless of the source of funding or obligations resulting from the funding.
 
-**Incorporated Exception for 100% Public Organizations with Commercial Purposes**
+**Incorporated Exception for Noncommercial Organizations regardless of use for commercial or noncommercial purpose**
 
-Use of the software and make changes and new works based on the software, whether commercial or non-commercial purposes, exclusively by any public health organization or environmental protection agency is a permitted purpose, provided that their participation is 100% public. 
-For the avoidance of doubt, this Exception to Permit Commercial Purposes only applies to the use of the Software and the making of changes and new works based on the Software made directly by the 100% publicly owned public health organization or environmental protection agency and does not grant any additional right to such 100% publicly owned public health organization or environmental protection agency to distribute, publicly communicate, or otherwise make available or accessible the Software to third parties for a commercial purpose, to the extent such third parties do not comply with the requirements set forth in Noncommercial Purposes, Personal Uses and Noncommercial Organizations. So that the use of the software by a third-party independent contractor or agent of a corporation, business, or organization for any commercial purpose of such third-party that you have authorized is not a permitted use and such third-parties should use the software under a separated written SOFTWARE LICENSE AND SERVICE AGREEMENT.
+Use by any public charitable organization, public educational institution, public research organization, public safety or health organization, public environmental protection organization, or government institution is use for a permitted purpose regardless of the source of funding or obligations resulting from the funding, provided their participation is 100% public.
+
+Use by a foundation whose purpose is to fight poverty, combat disease, promote and advance human rights, animal welfare or environmental protection is use for a permitted purpose.
+
+For the avoidance of doubt, this Exception to Permit Commercial Purposes only applies to the use of the Software and the making of changes and new works based on the Software made directly by the Noncommercial Organizations and does not grant any additional right to such Noncommercial Organizations to distribute, publicly
+communicate, or otherwise make available or accessible the Software to third parties for a commercial purpose, to the extent such third parties do not comply with the requirements set forth in Noncommercial Purposes, Personal Uses and Noncommercial Organizations. So that the use of the software by a third-party independent contractor or agent of a corporation, business, or organization for any commercial purpose of such third-party that you have authorized is not a permitted use and such third-parties should use the software under a separated written SOFTWARE LICENSE AND SERVICE AGREEMENT.
 
 **Fair Use**
 
@@ -77,7 +80,9 @@ If you make any written claim that the software infringes or contributes to infr
 The first time you are notified in writing that you have violated any of these terms, or done anything with the software not covered by your licenses, your licenses can nonetheless continue if you come into full compliance with these terms, and take practical steps to correct past violations, within 32 days of receiving notice. Otherwise, all your licenses end immediately.
 
 **No Liability**
-As far as the law allows, the software comes as is, without any warranty or condition, and the licensor will not be liable to you for any damages arising out of these terms or the use or nature of the software, under any kind of legal claim.
+
+***As far as the law allows, the software comes as is, without any warranty or condition, and the licensor will not be liable to you for any damages arising out of these terms or the use or nature of the software, under any kind of legal claim.***
+
 
 **Definitions**
 
