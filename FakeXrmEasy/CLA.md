@@ -44,9 +44,13 @@ Subject to the terms and conditions of this Agreement You hereby grant to Us and
 
 You reserve the right to revoke the patent license stated in section 2.3 if We make any infringement claim that is targeted at your Contribution and not asserted for a Defensive Purpose. An assertion of claims of the Patents shall be considered for a "Defensive Purpose" if the claims are asserted against an entity that has filed, maintained, threatened, or voluntarily participated in a patent infringement lawsuit against Us or any of Our licensees.
 
+**2.4.	Outbound License**
+
+Based on the grant of rights in Sections 2.1 and 2.2, if We include Your Contribution in a Material, We may license the Contribution under any license, including copyleft, permissive, commercial, or proprietary licenses. As a condition on the exercise of this right, We agree to also license the Contribution under the terms of the license or licenses which We are using for the Material on the Submission Date.
+
 **3.	Copyright license back to You**
 
-Upon such grant of rights to Us, where Your Contribution proves to be substantial in terms of investment in time, effort and/or utility, You may be granted from Us, at Our sole discretion,  a worldwide, royalty-free, paid-up, revocable, non-exclusive, license to use the FAKEXRMEASY (version 2 or later) in  accordance with the FAKEXRMEASY (version 2 or later) SOFTWARE LICENSE AND SERVICE AGREEMENT (current version in Annex 1), disregarding Section 2.2.(ii) thereof ("Subscription fee / Credential Use Restriction") and Section 4 ("Fees, payment and taxes"), which shall not apply to You.
+Upon such grant of rights to Us, where Your Contribution proves to be substantial in terms of investment in time, effort and/or utility, You may be granted from Us, at Our sole discretion, a worldwide, royalty-free, paid-up, revocable, non-exclusive, license to use the FAKEXRMEASY (version 2 or later) in  accordance with the FAKEXRMEASY (version 2 or later) SOFTWARE LICENSE AND SERVICE AGREEMENT (current version in Annex 1), disregarding Section 2.2.(ii) thereof ("Subscription fee / Credential Use Restriction") and Section 4 ("Fees, payment and taxes"), which shall not apply to You.
 
 **4.	Moral rights**
 
@@ -81,3 +85,5 @@ IF THE DISCLAIMER AND DAMAGE WAIVER MENTIONED IN SECTION 5. AND SECTION 6. CANNO
 9.3.	If any provision of this Agreement is found void and unenforceable, such provision will be replaced to the extent possible with a provision that comes closest to the meaning of the original provision and that is enforceable. The terms and conditions set forth in this Agreement shall apply notwithstanding any failure of essential purpose of this Agreement or any limited remedy to the maximum extent possible under law.
 
 9.4.	You agree to notify Us of any facts or circumstances of which you become aware that would make this Agreement inaccurate in any respect.
+
+9.5.    We may process your GitHub username for project monitoring and contractual management of signatures in this CLA, reporting on the quality of contributions and contributor participation, and complying with legal obligations of authorship attribution. We will not disclose your data to any third party outside of the GitHub community. For more information, contact Us.
