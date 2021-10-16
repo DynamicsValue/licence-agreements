@@ -32,11 +32,19 @@ The RPL 1.5 encourages a sustainable open source model where you can either "pay
 
 **What are the main differences between the Modified Polyform Non-commercial license 1.0.0 and the original Polyform Non-Commercial 1.0.0 license?**
 
-The Modified Polyform Non-commercial license includes an exception to allow commercial use if your organisation is an environmental protection agency or a health care organisation whose participation is 100% public. 
+The Modified Polyform Non-commercial license is almost the same as the PolyForm Non-Commercial 1.0.0 license except for the definition of NonCommercial Organizations:
 
-Health care organisations or Environmental Protection Agencies with any kind of private ownership who don't meet the requirements of RPL 1.5 and want to use FakeXrmEasy version 2 or later should buy a commercial license. 
+*Use by any public charitable organization, public educational institution, public research organization, public safety or health organization, public environmental protection organization, or government institution is use for a permitted purpose regardless of the source of funding or obligations resulting from the funding, provided their participation is 100% public.*
 
-We believe these are fundamental services that should be covered even under in a commercial context as their primary goal is to either protect our environment or provide free health care services.
+*Use by a foundation whose purpose is to fight poverty, combat disease, promote and advance human rights, animal welfare or environmental protection is use for a permitted purpose.*
+
+
+Internal use of FakeXrmEasy version 2 or later by any of the Noncommercial Organizations listed above is free of charge for any commercial or non commercial purpose. 
+
+Other types of organizations could also use FakeXrmEasy version 2 or later free of charge for strictly noncommercial purpose.
+
+Use of FakeXrmEasy version 2 or later by a third-party independent contractor or agent of a corporation, business, or organization for any commercial purpose of such third-party that you have authorized is not a permitted use and such third-parties should use the software under a commercial license.
+
 
 **How many Commercial licenses do I need and what does a 'user' mean?**
 
@@ -48,7 +56,7 @@ If you offer your own framework or extensions on top of FakeXrmEasy, users of su
 
 **I love FakeXrmEasy, but how can I justify the investment decision to my managers?**
 
-We've conducted a pretty extensive research study with the help of developers from more than 30 different organisations who were already using FakeXrmEasy v1. The outcome was 33% increased development efficiency and 191% increased efficiency due to reduced escaped defects that didn't make it to production or other environments. [Feel free to download the study here at this link](http://insert-link-here).
+We've conducted a pretty extensive research study with the help of developers from more than 30 different organisations who were already using FakeXrmEasy v1. The outcome was 33% increased development efficiency and 191% increased efficiency due to reduction of escaped defects that didn't make it to production or other environments. [Feel free to download the study here at this link](http://insert-link-here).
 
 If you still have questions, we'd be more than happy to answer those. Please do reach out to us via sales@dynamicsvalue.com.
 
